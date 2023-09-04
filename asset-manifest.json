@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sample_React_Repository_3_DeGuzman/static/css/main.88404e20.css",
+    "main.js": "/Sample_React_Repository_3_DeGuzman/static/js/main.d4213816.js",
+    "static/js/787.c5ca4160.chunk.js": "/Sample_React_Repository_3_DeGuzman/static/js/787.c5ca4160.chunk.js",
+    "index.html": "/Sample_React_Repository_3_DeGuzman/index.html",
+    "main.88404e20.css.map": "/Sample_React_Repository_3_DeGuzman/static/css/main.88404e20.css.map",
+    "main.d4213816.js.map": "/Sample_React_Repository_3_DeGuzman/static/js/main.d4213816.js.map",
+    "787.c5ca4160.chunk.js.map": "/Sample_React_Repository_3_DeGuzman/static/js/787.c5ca4160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.d4213816.js"
+  ]
+}
